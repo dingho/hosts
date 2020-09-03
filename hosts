@@ -1,11 +1,11 @@
 # [block]
-# 0.0.0.0 youtube.com
-# 0.0.0.0 googlevideo.com
-# 0.0.0.0 roblox.com
-# 0.0.0.0 facebook.com
-0.0.0.0 (\.|^)googlevideo\.com$
-0.0.0.0 (\.|^)youtube\.com$
-0.0.0.0 (\.|^)roblox\.com$
-0.0.0.0 (\.|^)facebook\.com$
-0.0.0.0 (\.|^)snapchat\.com$
-0.0.0.0 (\.|^)tiktok\.com$
+0.0.0.0 youtube.com
+0.0.0.0 googlevideo.com
+0.0.0.0 roblox.com
+0.0.0.0 facebook.com
+# 0.0.0.0 (\.|^)googlevideo\.com$
+# 0.0.0.0 (\.|^)youtube\.com$
+# 0.0.0.0 (\.|^)roblox\.com$
+# 0.0.0.0 (\.|^)facebook\.com$
+# 0.0.0.0 (\.|^)snapchat\.com$
+# 0.0.0.0 (\.|^)tiktok\.com$
